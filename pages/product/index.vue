@@ -1,15 +1,18 @@
 <template>
   <v-container>
+    <v-row align="center" justify="center">
+      <v-col />
+      <v-col>
+        <v-img
+          src="https://cdn.discordapp.com/attachments/746260527235334237/761559406692270080/LogoMM.png"
+          class="img-fluid mx-auto"
+        />
+      </v-col>
+      <v-col />
+    </v-row>
     <v-row justify="center" align="center">
       <v-col />
       <v-col>
-        <img
-          src="https://cdn.discordapp.com/attachments/746260527235334237/758704739336323132/LogoM.png"
-          alt=""
-          height="150px"
-          width="500px"
-          class="img-fluid mx-auto"
-        >
         <br>
         <br>
         <v-row justify="center" align="center">
